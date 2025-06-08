@@ -96,16 +96,16 @@ h2 {
 }
 
 .bg-1 {
- background-image: url(../assets/image1.jpg);
+ background-image: url(./assets/image1.jpg);
 
 }
 
 .bg-2 {
-  background-image: url(../assets/image6.jpg);
+  background-image: url(./assets/image6.jpg);
 
 }
 
 .bg-3 {
- background-image: url(../assets/image8.jpg);
+ background-image: url(./assets/image8.jpg);
 
 }
